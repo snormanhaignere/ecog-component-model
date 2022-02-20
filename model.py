@@ -6,6 +6,8 @@ train_complex has additional functionality but as a consequence
 is harder to understand / read.
 
 train_simple implements the just the bones of main model from the paper.
+
+Models are implemented in TensorFlow (version 1.1.0).
 """
 
 import numpy as np
